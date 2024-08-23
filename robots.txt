@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /favourate.html
+Allow: /reader.html
+Allow: /docs/
+Allow: /fav/
+Allow: /img/
+Disallow: /
