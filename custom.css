@@ -167,7 +167,9 @@ table{
 }
 
 table th{
-    background-color: #33f3e6;
+    background-color: #019effdd;
+    color: #ffffff;
+    font-weight: lighter;
     border: 1px solid #000000;
 }
 
